@@ -20,4 +20,4 @@ this is dummy text
 here, you will find some helpful resources
 
 ##COPYRIGHT
-(C) Copyright 2019
+(C) Copyright Deloitte 2019

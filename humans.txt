@@ -8,8 +8,9 @@
 # THANKS
 
     Thank you internet!
-
+	
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	GIT
