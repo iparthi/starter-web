@@ -18,3 +18,6 @@ this is dummy text
 ## HELP section
 
 here, you will find some helpful resources
+
+##COPYRIGHT
+(C) Copyright 2019
