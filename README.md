@@ -13,3 +13,8 @@ This is dummy text
 ## Deployment
 
 this is dummy text
+
+
+## HELP section
+
+here, you will find some helpful resources
